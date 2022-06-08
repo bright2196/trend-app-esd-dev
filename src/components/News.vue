@@ -190,17 +190,7 @@
 
 <style scoped>
 
-  .nav-item, .nav-link {
-    
-    background-color:transparent;
-	  cursor:pointer; 
-	  color:#000;
-	  font-family: Montserrat;
-	  font-size:16px;
-	  padding:16px 31px;
-	  text-decoration:none;
-    border: none;
-  }
+  
   img {
     height: 250px;
     width: 100%;
