@@ -1,4 +1,6 @@
+
 <template>
+
   <div id="app">
     <News :apiKey="apiKey" />
   </div>

@@ -1,7 +1,7 @@
 {
-  "name": "VueJS-NewsAPI",
+  "name": "Trend-app",
   "version": "0.1.0",
-  "author": "Fabian Arndt <fabian.arndt96@gmail.com>",
+ 
   "private": true,
   "scripts": {
     "deploy": "node scripts/gh-pages-deploy.js",

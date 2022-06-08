@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === "production" ? "/VueJS-NewsAPI/" : "/",
+  publicPath: process.env.NODE_ENV === "production" ? "/Trend-app/" : "/",
 };
 
